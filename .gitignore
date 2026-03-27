@@ -1,0 +1,29 @@
+# Virtual environment
+.venv/
+
+# GPT-2 weight binaries — large files, never commit
+weights/bin/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# C++ build artifacts (Phase 2)
+cpp/build/
+*.o
+*.a
+*.so
+
+# Editor
+.vscode/
+.idea/
