@@ -1,3 +1,4 @@
+# weights/dump_weights.py
 import os
 import numpy as np
 from transformers import GPT2Model

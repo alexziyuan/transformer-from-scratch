@@ -1,3 +1,4 @@
+# python/inference.py
 import numpy as np
 from model import GPT2
 from loader import load_weights, get_config

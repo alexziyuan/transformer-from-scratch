@@ -1,3 +1,4 @@
+# tokenizer/encode.py
 import numpy as np
 import tiktoken
 
